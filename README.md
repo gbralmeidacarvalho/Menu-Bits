@@ -2,16 +2,6 @@
 
 O MenuBits é um inovador cardápio digital projetado para simplificar a operação de restaurantes. Oferece atualização fácil de preços, acesso rápido via QR Code, detalhes abrangentes dos produtos e estatísticas úteis de vendas. Para os clientes, proporciona atendimento ágil, sem os inconvenientes da sujeira dos cardápios tradicionais, além de opções exclusivas que só a tecnologia digital pode oferecer, elevando o conforto e a satisfação geral.
 
-## Integrantes
-
-* <a href="https://www.linkedin.com/in/gisellenrosa/">Giselle Nepomuceno Rosa</a>
-* <a href="https://github.com/Andre98B">André Barone</a>
-* <a href="https://www.linkedin.com/in/philipe-rocha-0684021b2">Philipe Rocha</a>
-* <a href="https://github.com/PedroVictor022">Pedro Victor</a>
-* <a href="https://github.com/GabrieldeAlmeidaCarvalho">Gabriel de Almeida</a>
-* <a href="https://github.com/RafaelPereira7L">Rafael Pereira</a>
-
-
 ## Instruções de utilização
 
 **Nossa aplicação backend e os bancos de dados já se encontram disponíveis na nuvem** <br />
